@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @AyushAggarwal1
+- 👀 AI & ML enthusiastic
+- 🌱 I’m currently learning DSA, Web Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 mail me on mangla3687@gmail.com
+
+<!---
+AyushAggarwal1/AyushAggarwal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
