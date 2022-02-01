@@ -2,7 +2,7 @@
 - 👀 AI & ML enthusiastic
 - 🌱 I’m currently learning DSA, Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail me on mangla3687@gmail.com
+- 📫 Mail me on mangla3687@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/
 <!---
