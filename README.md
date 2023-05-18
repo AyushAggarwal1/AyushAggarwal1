@@ -2,7 +2,7 @@
 - 👀 AI & ML enthusiastic
 - 🌱 I’m currently learning DSA, Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 Mail me on mangla3687@gmail.com
+- 📫 Mail me on ayushaggarwal1136@gmail.com
 
 Visit my Website - https://ayushaggarwalportfolio.netlify.app/
 
