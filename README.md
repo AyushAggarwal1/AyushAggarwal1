@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 Mail me on **ayushaggarwal1136@gmail.com**
 
 <br>
+Connect with me on -
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushAggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)](https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)
 
@@ -54,3 +55,6 @@ You can click the Preview link to take a look at your changes.
 <img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
 
 </div>
+
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/AyushAggarwal1/count.svg?align=center)
