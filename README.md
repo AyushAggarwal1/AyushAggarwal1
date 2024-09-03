@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="50%" alt="ayushaggarwalEarned" src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAggarwal1&hide_border=true" />
+<img width="45%" alt="ayushaggarwalStreak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAggarwal1&hide_border=true" />
 
 </div>
 
@@ -48,5 +48,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/ayushaggarwal1136?theme=unicorn&font=baloo&extension=activity)
+
 </div>
