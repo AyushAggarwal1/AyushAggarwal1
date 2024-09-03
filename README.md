@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Mail me on **ayushaggarwal1136@gmail.com**
 
-- <a href="https://ayushaggarwalportfolio.netlify.app/">Visit my Portfolio</a>
+- 👨🏻‍💻 Visit my Portfolio **https://ayushaggarwalportfolio.netlify.app/**
+
+- <a href="https://ayushaggarwalportfolio.netlify.app/">👨🏻‍💻 Visit my Portfolio</a>
 
 <h3>Connect with me on - </h3>
 
