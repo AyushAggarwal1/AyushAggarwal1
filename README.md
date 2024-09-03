@@ -22,4 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAggarwal1&hide_border=true" />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1h&show_icons=true&locale=en&layout=compact" alt="AyushAggarwal_MostUsedLanguages" /></p>
+s
 <!-- <a href="https://ultralytics.com/"><img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a> -->
