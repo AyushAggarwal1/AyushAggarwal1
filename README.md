@@ -22,9 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Social Media Handles -->
 <p>
-<div>   
-    - 👀 I’m looking to collaborate on 
-</div>
+
+- 👀 I’m looking to collaborate on 
 
 - 📫 Mail me on **ayushaggarwal1136@gmail.com**
 
@@ -52,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align="center">
 
-<img width="50%" alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
+<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
 
 </div>
