@@ -56,5 +56,5 @@ Connect with me on -
 
 </div>
 
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/AyushAggarwal1/count.svg?align=center)
+<!-- 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/AyushAggarwal1/count.svg?align=center) -->
