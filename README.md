@@ -43,10 +43,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&show_icons=true&locale=en&layout=compact" alt="AyushAggarwal_MostUsedLanguages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&show_icons=true&locale=en&layout=compact" alt="AyushAggarwal_MostUsedLanguages" />
     </p>
 </div>
-
+<div></div>
 <div align="center">
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ayushaggarwal1136?theme=unicorn&font=baloo&extension=activity)
