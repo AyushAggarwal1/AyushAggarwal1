@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 <div></div>
 <div align="center">
 
-<img  src="![LeetCode Stats](https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity)" />
+<img alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
 
 </div>
