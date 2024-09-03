@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <h3>Connect with me on - </h3>
-<br>
+<!-- <br> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushAggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)](https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)
 [![Gmail Badge](https://img.shields.io/badge/-ayushaggarwal1136@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayushaggarwal1136@gmail.com)](mailto:ayushaggarwal1136@gmail.com)
