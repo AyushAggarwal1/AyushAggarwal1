@@ -25,7 +25,10 @@ You can click the Preview link to take a look at your changes.
 <div>   
     - 👀 I’m looking to collaborate on 
 </div>
+
 - 📫 Mail me on **ayushaggarwal1136@gmail.com**
+
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AyushAggarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)](https://www.linkedin.com/in/ayush-aggarwal-b19b891a0/)
 
@@ -46,9 +49,9 @@ You can click the Preview link to take a look at your changes.
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&show_icons=true&locale=en&layout=compact" alt="AyushAggarwal_MostUsedLanguages" />
     </p>
 </div>
-<div></div>
+<br>
 <div align="center">
 
-<img alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
+<img width="50%" alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
 
 </div>
