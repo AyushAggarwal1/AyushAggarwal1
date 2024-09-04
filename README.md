@@ -2,7 +2,7 @@
     👋 Hi, I’m @AyushAggarwal1 
     - 👀 AI & ML enthusiastic
     - 🌱 I’m currently learning DSA, Web Development
-    - 💞️ I’m looking to collaborate on ...
+    - 💞️ I’m looking to collaborate ...
     - 📫 Mail me on ayushaggarwal1136@gmail.com
 ---> 
 
