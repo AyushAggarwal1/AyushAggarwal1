@@ -26,12 +26,18 @@
 
 - 👨🏻‍💻 Visit my Portfolio **https://ayushaggarwalportfolio.netlify.app/**
 
-- 🐳 My Docker World **https://hub.docker.com/u/ayush1136**
-
+- 🌐 Visit my Socials **https://beacons.ai/ayushaggarwal**
 
 <!-- Social Media handles -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushaggarwalin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayushaggarwal1136) [![LeetCode](https://leetcode.com/u/ayushaggarwal1136/)]
+[
+    [![LinkedIn](https://github.com/AyushAggarwal1/AyushAggarwal1/assets/linkedin-logo.png?raw=true)](https://www.linkedin.com/in/ayushaggarwalin/)
+    [![LeetCode](https://github.com/AyushAggarwal1/AyushAggarwal1/assets/leetcode-logo.png?raw=true)](https://leetcode.com/ayushaggarwal1136/)
+    [![Notion](https://github.com/AyushAggarwal1/AyushAggarwal1/assets/notion-logo.png?raw=true)](https://www.notion.so/Welcome-to-Ayush-s-Notion-World-833e75a9a45b43d0b73971bf5402ff9d)
+    [![Medium](https://github.com/AyushAggarwal1/AyushAggarwal1/assets/medium-logo.png?raw=true)](https://medium.com/@ayushaggarwal1136)
+    [![Beacons](https://github.com/AyushAggarwal1/AyushAggarwal1/assets/beacons-logo.png?raw=true)](https://beacons.ai/ayushaggarwal)
+
+]
 
 
 <!-- Tech Stack Used -->
