@@ -30,30 +30,41 @@
 
 <!-- Social Media handles -->
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/ayushaggarwalin/" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn" width="40" height="40" /> 
-    LinkedIn 
-</a>
-<br />
-<a href="https://leetcode.com/ayushaggarwal1136/" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/leetcode-logo.png?raw=true" alt="LeetCode" width="40" height="40" /> 
-    LeetCode 
-</a>
-<br />
-<a href="https://www.notion.so/Welcome-to-Ayush-s-Notion-World-833e75a9a45b43d0b73971bf5402ff9d" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/notion-logo.png?raw=true" alt="Notion" width="40" height="40" /> 
-    Notion 
-</a>
-<br />
-<a href="https://medium.com/@ayushaggarwal1136" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/medium-logo.png?raw=true" alt="Medium" width="40" height="40" /> 
-    Medium 
-</a>
-<br />
-<a href="https://beacons.ai/ayushaggarwal" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/beacons-logo.png?raw=true" alt="Beacons" width="40" height="40" /> 
-    Beacons 
-</a>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://www.linkedin.com/in/ayushaggarwalin/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+        <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn" width="40" height="40" />
+        <span style="margin-left: 8px;">LinkedIn</span>
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://leetcode.com/ayushaggarwal1136/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+        <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/leetcode-logo.png?raw=true" alt="LeetCode" width="40" height="40" />
+        <span style="margin-left: 8px;">LeetCode</span>
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://www.notion.so/Welcome-to-Ayush-s-Notion-World-833e75a9a45b43d0b73971bf5402ff9d" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+        <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/notion-logo.png?raw=true" alt="Notion" width="40" height="40" />
+        <span style="margin-left: 8px;">Notion</span>
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://medium.com/@ayushaggarwal1136" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+        <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/medium-logo.png?raw=true" alt="Medium" width="40" height="40" />
+        <span style="margin-left: 8px;">Medium</span>
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <a href="https://beacons.ai/ayushaggarwal" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
+        <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/beacons-logo.png?raw=true" alt="Beacons" width="40" height="40" />
+        <span style="margin-left: 8px;">Beacons</span>
+    </a>
+</div>
+
 
 
 <!-- Tech Stack Used -->
