@@ -31,7 +31,7 @@
 
 <!-- Social Media handles -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushaggarwalin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayushaggarwal1136) [![Notion](https://www.notion.so/Welcome-to-Ayush-s-Notion-World-833e75a9a45b43d0b73971bf5402ff9d)] [![Leetcode](https://leetcode.com/u/ayushaggarwal1136/) [![Beacons](https://account.beacons.ai/home)]]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushaggarwalin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayushaggarwal1136) [![LeetCode](https://leetcode.com/u/ayushaggarwal1136/)]
 
 
 <!-- Tech Stack Used -->
