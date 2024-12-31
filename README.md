@@ -77,7 +77,7 @@
 # 📊 Leetcode Stats:
 <div align="center">
 
-<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcode.card.workers.dev/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
+<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
 
 </div>
 
