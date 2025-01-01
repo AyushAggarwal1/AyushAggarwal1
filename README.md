@@ -61,7 +61,7 @@
 
 <img width="50%" alt="ayush_aggarwal_earned" src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 
-<img width="45%" alt="ayush_aggarwal_streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushAggarwal1&hide_border=true" />
+<img width="45%" alt="ayush_aggarwal_streak" src="https://streak-stats.demolab.com/?user=ayushaggarwal1" />
 
 </div>
 
@@ -77,7 +77,7 @@
 # 📊 Leetcode Stats:
 <div align="center">
 
-<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?theme=auto&font=baloo&extension=activity" />
+<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?ext=heatmap" />
 
 </div>
 
