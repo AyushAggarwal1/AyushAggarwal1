@@ -60,7 +60,7 @@
 <div align="center">
 
 <img width="50%" alt="ayush_aggarwal_earned" src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-
+<img src="https://streak-stats.demolab.com?user=ayushaggarwal1&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <img width="45%" alt="ayush_aggarwal_streak" src="https://streak-stats.demolab.com/?user=ayushaggarwal1" />
 
 </div>
