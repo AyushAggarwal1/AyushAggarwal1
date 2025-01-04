@@ -64,12 +64,14 @@
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&show_icons=true&locale=en&layout=compact" alt="ayush_aggarwal_mostUsedLanguages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1" alt="ayush_aggarwal_mostUsedLanguages" />
     </p>
-</div> -->
+</div>
 <br>
+
+
 
 
 <!-- Leetcode Stats -->
