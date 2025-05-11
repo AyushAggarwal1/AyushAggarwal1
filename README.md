@@ -1,93 +1,176 @@
 <!-- - 
-    👋 Hi, I’m @AyushAggarwal1 
+    👋 Hi, I'm @AyushAggarwal1 
     - 👀 AI & ML enthusiastic
-    - 🌱 I’m currently learning DSA, Web Development
-    - 💞️ I’m looking to collaborate on ...
+    - 🌱 I'm currently learning DSA, Web Development
+    - 💞️ I'm looking to collaborate on ...
     - 📫 Mail me on ayushaggarwal1136@gmail.com
 ---> 
 
 
 <!-- Introduction -->
-<h1 align="center">Hello 👋, I'm Ayush Aggarwal</h1>
-<h3 align="center">Product Guy skilled in wireframing, user-centric solutions, agile methodologies, development, and managing end-to-end product lifecycles</h3>
-
-
-<!-- Github Profile Trophy -->
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushAggarwal1" alt="ayush_aggarwal_github_trophy" /></a> 
-</p>
-
-
-<p>
-<!-- Collaborations and Social Media Handles -->
-- 👀 I’m looking to collaborate 
-
-- 📫 Mail me on **ayushaggarwal1136@gmail.com**
-
-- 👨🏻‍💻 Visit my Portfolio **https://ayushaggarwalportfolio.netlify.app/**
-
-- 🌐 Visit my Socials **https://beacons.ai/ayushaggarwal**
-
-<!-- Social Media handles -->
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/ayushaggarwalin/" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/linkedin-logo.png?raw=true" alt="LinkedIn" width="40" height="40" />
-</a>
-<a href="https://leetcode.com/ayushaggarwal1136/" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/leetcode-logo.png?raw=true" alt="LeetCode" width="40" height="40" />
-</a>
-<a href="https://www.notion.so/Welcome-to-Ayush-s-Notion-World-833e75a9a45b43d0b73971bf5402ff9d" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/notion-logo.png?raw=true" alt="Notion" width="40" height="40" />
-</a>
-<a href="https://medium.com/@ayushaggarwal1136" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/medium-logo.png?raw=true" alt="Medium" width="40" height="40" />
-</a>
-<a href="https://beacons.ai/ayushaggarwal" target="_blank"> 
-    <img src="https://github.com/AyushAggarwal1/AyushAggarwal1/blob/main/assets/beacons-logo.png?raw=true" alt="Beacons" width="40" height="40" />
-</a>
-
-
-
-<!-- Tech Stack Used -->
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-</p>
-
-
-<!-- Github Stats -->
-# 📊 GitHub Stats:
 <div align="center">
 
-<img width="50%" alt="ayush_aggarwal_earned" src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img width="45%" alt="ayush_aggarwal_streak" src="https://streak-stats.demolab.com/?user=ayushaggarwal1" />
+# Hello, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### Product Guy skilled in wireframing, user-centric solutions, agile methodologies & development
+
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://ayushaggarwalportfolio.netlify.app/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushaggarwalin/) 
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ayushaggarwal1136)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayushaggarwal1136/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
+[<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
 
 </div>
 
+## 🏆 GitHub Achievements
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
+</p>
+
+## 📈 GitHub Stats
 <div align="center">
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1" alt="ayush_aggarwal_mostUsedLanguages" />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" width="49%" alt="Ayush's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true" width="49%" alt="Ayush's Streak" />
 </div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
+
 <br>
 
+## 🤝 Open Source Contributions
 
+### [DefectDojo/sample-scan-files](https://github.com/DefectDojo/sample-scan-files) - Security Scanning Sample Files
 
-
-<!-- Leetcode Stats -->
-# 📊 Leetcode Stats:
-<div align="center">
-
-<img width="50%" height="30%" alt="ayushaggarwalLeetcodeStats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?ext=heatmap" />
-
+<div>
+  <a href="https://github.com/DefectDojo/sample-scan-files" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DefectDojo&repo=sample-scan-files" width="400px" align="right" alt="DefectDojo Contributions"/>
+  </a>
+  
+  <ul>
+    <li>
+      <strong>PR <a href="https://github.com/DefectDojo/sample-scan-files/pull/85">#85</a>:</strong> Added misconfiguration files for security scanning tools
+      <ul>
+        <li>Added sample files for Checkov, Semgrep, Checkmarx, and Sonarqube</li>
+        <li>Enhanced testing capabilities for vulnerability management platforms</li>
+        <li>Contributed to security scanning and analysis infrastructure</li>
+        <li>PR was reviewed and merged by project maintainers</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
+<br clear="all">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushaggarwal1&limit=5&theme=light&combine_all_yearly_contributions=true)
+## 🚀 Featured Projects
 
-<!-- Profile Views -->
-<!-- 
-    🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    ![visitors](https://profile-counter.glitch.me/AyushAggarwal1/count.svg?align=center)
- -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">GST Bill Maker</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/gst-bill" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=gst-bill" width="100%" alt="GST Bill Project"/>
+        </a>
+        <p><strong>Next.js, React, PostgreSQL, Prisma, NextAuth</strong> - A modern, user-friendly application for creating and managing GST bills with secure authentication and responsive design.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Educational Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/ed-chatbot" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=ed-chatbot" width="100%" alt="Educational Chatbot"/>
+        </a>
+        <p><strong>AI, NLP</strong> - An intelligent chatbot designed to enhance educational experiences through natural language interactions.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Music Player</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/Coding-Ninjas-Music-Player" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=Coding-Ninjas-Music-Player" width="100%" alt="Music Player Project"/>
+        </a>
+        <p><strong>HTML, CSS, JavaScript</strong> - A feature-rich music player with playlist management and audio visualization capabilities.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Resume Selector</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/Resume-Selector" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=Resume-Selector" width="100%" alt="Resume Selector Project"/>
+        </a>
+        <p><strong>Python, NLP, ML</strong> - An intelligent system that uses machine learning to analyze and categorize resumes based on industry sector relevance.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Surveillance Car</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/Surveillance-Car" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=Surveillance-Car" width="100%" alt="Surveillance Car Project"/>
+        </a>
+        <p><strong>IoT, Raspberry Pi, Arduino</strong> - A smart surveillance vehicle with remote control capabilities and real-time video streaming.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">More Projects</h3>
+      <div align="center">
+        <p>Check out more of my projects on my <a href="https://github.com/AyushAggarwal1?tab=repositories" target="_blank">GitHub repositories page</a>.</p>
+        <br>
+        <a href="https://github.com/AyushAggarwal1?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  
+  <!-- Platforms & Hardware -->
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+</p>
+
+## 📊 LeetCode Stats
+
+<div align="center">
+  <img width="60%" alt="Ayush's LeetCode Stats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?ext=heatmap&theme=dark" />
+</div>
+
+<div align="center">
+  <a href="https://beacons.ai/ayushaggarwal">
+    <img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="All Social Links" />
+  </a>
+</div>
