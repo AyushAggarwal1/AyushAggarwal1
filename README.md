@@ -12,9 +12,10 @@
 
 # Hello, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Product Guy skilled in wireframing, user-centric solutions, agile methodologies & development
+### Product Manager skilled in PRD's, user research, roadmapping, wireframing, user-centric solutions, agile methodologies & development
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://ayushaggarwalportfolio.netlify.app/) 
+[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1t6FbgrqEdGy6Nc5lOfHMpaxHR0NHV2Yv/view?usp=sharing)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushaggarwalin/) 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ayushaggarwal1136)
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayushaggarwal1136/)
@@ -133,6 +134,17 @@
 ## 💻 Tech Stack
 
 <p align="center">
+  <!-- Product Management -->
+  <img src="https://img.shields.io/badge/Product_Strategy-0288D1?style=for-the-badge" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/User_Research-FF6B00?style=for-the-badge" alt="User Research" />
+  <img src="https://img.shields.io/badge/Product_Roadmapping-00838F?style=for-the-badge" alt="Product Roadmapping" />
+  <img src="https://img.shields.io/badge/A_B_Testing-6200EA?style=for-the-badge" alt="A/B Testing" />
+  <img src="https://img.shields.io/badge/OKRs-D81B60?style=for-the-badge" alt="OKRs" />
+  <img src="https://img.shields.io/badge/Market_Analysis-2E7D32?style=for-the-badge" alt="Market Analysis" />
+  <img src="https://img.shields.io/badge/Wireframing-424242?style=for-the-badge" alt="Wireframing" />
+  <img src="https://img.shields.io/badge/User_Stories-F57C00?style=for-the-badge" alt="User Stories" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
