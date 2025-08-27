@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
 </p>
 
 ## 📈 GitHub Stats
