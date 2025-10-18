@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
 </p>
 
 ## 📈 GitHub Stats
@@ -43,6 +43,28 @@
 
 ## 🤝 Open Source Contributions
 
+### [Microsoft/presidio](https://github.com/microsoft/presidio) - Data Protection and De-identification SDK
+
+<div>
+  <a href="https://github.com/microsoft/presidio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio" width="400px" align="right" alt="microsoft presidio Contributions"/>
+  </a>
+  
+  <ul>
+    <li>
+      <strong>PR <a href="https://github.com/microsoft/presidio/pull/1744">#1744</a>:</strong> Added a new recognizer to `presidio_analyzer`
+      <ul>
+        <li>Indian GSTIN recognizer to Presidio analyzer</li>
+        <li>Implements three confidence levels (0.8, 0.4, 0.1) based on pattern strictness</li>
+        <li>Supports context-aware detection with relevant keywords</li>
+        <li>PR was reviewed and <strong>merged</strong> by project maintainers</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<br clear="all">
+
 ### [DefectDojo/sample-scan-files](https://github.com/DefectDojo/sample-scan-files) - Security Scanning Sample Files
 
 <div>
@@ -57,7 +79,7 @@
         <li>Added sample files for Checkov, Semgrep, Checkmarx, and Sonarqube</li>
         <li>Enhanced testing capabilities for vulnerability management platforms</li>
         <li>Contributed to security scanning and analysis infrastructure</li>
-        <li>PR was reviewed and merged by project maintainers</li>
+        <li>PR was reviewed and <strong>merged</strong> by project maintainers</li>
       </ul>
     </li>
   </ul>
@@ -68,8 +90,20 @@
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
+<!-- - 
+    - Row 0 
+---> 
+   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Ghostlight</h3>
+      <div align="center">
+        <a href="https://github.com/AyushAggarwal1/ghostlight" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=ghostlight" width="100%" alt="ghostlight"/>
+        </a>
+        <p><strong>Pythons, Ollama, OpenAI, Data Protection, S3, RDS, GDrive, Regex, Boto3, Cryptography</strong> - Data Security Posture Management tool that scans cloud storage, VMs, databases, and git repositories to detect sensitive data and classify findings against GDPR, HIPAA, PCI, and secrets exposure.</p>
+      </div>
+    </td>
+   <td width="50%" valign="top">
       <h3 align="center">GST Bill Maker</h3>
       <div align="center">
         <a href="https://github.com/AyushAggarwal1/gst-bill" target="_blank">
@@ -78,6 +112,12 @@
         <p><strong>Next.js, React, PostgreSQL, Prisma, NextAuth</strong> - A modern, user-friendly application for creating and managing GST bills with secure authentication and responsive design.</p>
       </div>
     </td>
+  </tr>
+    
+<!-- - 
+    - Row 1 
+---> 
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Educational Chatbot</h3>
       <div align="center">
@@ -87,18 +127,7 @@
         <p><strong>AI, NLP</strong> - An intelligent chatbot designed to enhance educational experiences through natural language interactions.</p>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Music Player</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/Coding-Ninjas-Music-Player" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushAggarwal1&repo=Coding-Ninjas-Music-Player" width="100%" alt="Music Player Project"/>
-        </a>
-        <p><strong>HTML, CSS, JavaScript</strong> - A feature-rich music player with playlist management and audio visualization capabilities.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
+      <td width="50%" valign="top">
       <h3 align="center">Resume Selector</h3>
       <div align="center">
         <a href="https://github.com/AyushAggarwal1/Resume-Selector" target="_blank">
@@ -108,6 +137,11 @@
       </div>
     </td>
   </tr>
+
+  <!-- - 
+    - Row 3 
+---> 
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Surveillance Car</h3>
