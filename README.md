@@ -26,12 +26,12 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=AyushAggarwal1&column=7&margin-w=15&margin-h=15" alt="ayush_aggarwal_github_trophy" /></a> 
 </p>
 
 ## 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" width="49%" alt="Ayush's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" width="49%" alt="Ayush's GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true" width="49%" alt="Ayush's Streak" />
 </div>
 
