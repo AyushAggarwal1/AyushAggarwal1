@@ -31,12 +31,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" width="49%" alt="Ayush's GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true" width="49%" alt="Ayush's Streak" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&hide_border=true&layout=compact" alt="Most Used Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushAggarwal1&hide_border=true&layout=compact" height="200px" width="33%" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" height="200px" width="33%" alt="Ayush's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true" height="200px" width="33%" alt="Ayush's Streak" />
 </div>
 
 <br>
@@ -212,7 +209,7 @@
 ## 📊 LeetCode Stats
 
 <div align="center">
-  <img width="60%" alt="Ayush's LeetCode Stats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136?ext=heatmap&theme=dark" />
+  <img width="60%" alt="Ayush's LeetCode Stats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136" />
 </div>
 
 <div align="center">
