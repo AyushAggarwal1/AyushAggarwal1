@@ -8,6 +8,9 @@
     or self-deploy (1-click Vercel deploy, same as the stats instance).
   - Every card has a light + dark variant via <picture> so it matches the viewer's
     GitHub theme.
+  - If an image shows blank in browsers while curl says 200: GitHub's camo CDN may
+    have cached a truncated compressed variant (it caches per Accept-Encoding).
+    Fix: change any query param on that image URL — new URL = fresh camo cache.
 -->
 
 <div align="center">
@@ -31,8 +34,8 @@ I scope the roadmap, then build and ship the security tooling that proves it out
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true">
-    <img src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=flat&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="ayush_aggarwal_github_trophy"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-w=9&margin-h=9">
+    <img src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=flat&no-bg=true&no-frame=true&margin-w=9&margin-h=9" alt="ayush_aggarwal_github_trophy"/>
   </picture>
 </a>
 
