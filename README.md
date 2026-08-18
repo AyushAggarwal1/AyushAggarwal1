@@ -6,13 +6,14 @@
     - 📫 Mail me on ayushaggarwal1136@gmail.com
 ---> 
 
-
 <!-- Introduction -->
 <div align="center">
 
-# Hello, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### Product Manager skilled in PRD's, user research, roadmapping, wireframing, user-centric solutions, agile methodologies & development
+### Technical Product Manager who still ships code — PRDs by day, pull requests by night
+
+Bridging product strategy and hands-on engineering: I scope the roadmap, then build and ship the security tooling that proves it out.
 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://ayushaggarwalportfolio.netlify.app/) 
 [<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1t6FbgrqEdGy6Nc5lOfHMpaxHR0NHV2Yv/view?usp=sharing)
@@ -22,7 +23,22 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
 [<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
 
+<img src="https://komarev.com/ghpvc/?username=AyushAggarwal1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
 </div>
+
+<br>
+
+## 🧭 At a Glance
+
+- 🧩 **Product** — PRDs, discovery, roadmapping, wireframing & user-centric, data-informed decisions
+- 🔐 **Engineering** — Python/Django backend work with a security & data-protection focus
+- 🛠️ **Building** — [Ghostlight](https://github.com/AyushAggarwal1/ghostlight), a DSPM tool that scans cloud storage, VMs, DBs & repos for sensitive data exposure
+- 🌱 **Learning** — advanced DSA and modern web development, applied to real side projects
+- 🤝 **Open source** — merged contributions to [Microsoft Presidio](https://github.com/microsoft/presidio) and [DefectDojo](https://github.com/DefectDojo/sample-scan-files)
+- 💬 **Ask me about** — PRDs & roadmapping, data security posture management, or turning a spec into working code
+
+<br>
 
 ## 🏆 GitHub Achievements
 <p align="center">
@@ -164,8 +180,9 @@
 
 ## 💻 Tech Stack
 
+**Product**
+
 <p align="center">
-  <!-- Product Management -->
   <img src="https://img.shields.io/badge/Product_Strategy-0288D1?style=for-the-badge" alt="Product Strategy" />
   <img src="https://img.shields.io/badge/User_Research-FF6B00?style=for-the-badge" alt="User Research" />
   <img src="https://img.shields.io/badge/Product_Roadmapping-00838F?style=for-the-badge" alt="Product Roadmapping" />
@@ -175,32 +192,37 @@
   <img src="https://img.shields.io/badge/Wireframing-424242?style=for-the-badge" alt="Wireframing" />
   <img src="https://img.shields.io/badge/User_Stories-F57C00?style=for-the-badge" alt="User Stories" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+**Languages**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  
-  <!-- Web Technologies -->
+</p>
+
+**Web & Data**
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  
-  <!-- Data Science -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  
-  <!-- DevOps & Tools -->
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  
-  <!-- Platforms & Hardware -->
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
@@ -212,8 +234,16 @@
   <img width="60%" alt="Ayush's LeetCode Stats" src="https://leetcard.jacoblin.cool/ayushaggarwal1136" />
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://beacons.ai/ayushaggarwal">
-    <img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="All Social Links" />
-  </a>
+
+### 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushaggarwalin/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
+[<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
+
+<sub>Thanks for stopping by — always open to a chat about product, security, or a good side project.</sub>
+
 </div>
