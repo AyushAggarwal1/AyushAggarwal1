@@ -1,341 +1,238 @@
-<!--
-  Maintenance notes:
-  - Stats / top-langs / repo-pin cards are served by github-readme-stats-fast.vercel.app
-    (self-hosted instance) — the public github-readme-stats.vercel.app is PAUSED (503).
-  - Trophies use the community mirror trophy.ryglcloud.net — the official
-    github-profile-trophy.vercel.app deployment is DISABLED (402). If the mirror ever
-    dies, pick another from https://github.com/ryo-ma/github-profile-trophy#readme
-    or self-deploy (1-click Vercel deploy, same as the stats instance).
-  - Every card has a light + dark variant via <picture> so it matches the viewer's
-    GitHub theme.
-  - If an image shows blank in browsers while curl says 200: GitHub's camo CDN may
-    have cached a truncated compressed variant (it caches per Accept-Encoding).
-    Fix: change any query param on that image URL — new URL = fresh camo cache.
--->
-
+<!-- GitHub profile README for github.com/AyushAggarwal1 -->
 <div align="center">
 
-# Hi, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Ayush Aggarwal 👋
 
-### Technical Product Manager - Microsoft Presidio Contributor - Security Specialist
-
-I scope the roadmap, then build and ship the security tooling that proves it out — PRDs by day, pull requests by night.
-
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://ayushaggarwalportfolio.netlify.app/)
-[<img src="https://img.shields.io/badge/Notepad-0288D1?style=for-the-badge&logo=gitbook&logoColor=white" />](https://ayushaggarwal1.github.io/scratch-pad-open/)
-[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />](https://drive.google.com/file/d/1t6FbgrqEdGy6Nc5lOfHMpaxHR0NHV2Yv/view?usp=sharing)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushaggarwalin/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ayushaggarwal1136)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayushaggarwal1136/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
-[<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
-
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-w=9&margin-h=9">
-    <img src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=flat&no-bg=true&no-frame=true&margin-w=9&margin-h=9" alt="ayush_aggarwal_github_trophy"/>
-  </picture>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0A66C2&center=true&vCenter=true&width=850&lines=Technical+Product+Manager+%40+AccuKnox;Zero-to-One+Product+Builder;Customer-Focused+%7C+Data-Informed+%7C+Technical;Turning+Complex+Problems+into+Scalable+Products" alt="Technical Product Manager, zero-to-one builder, and customer-focused product leader">
 </a>
 
+### Versatile Technical Product Manager turning customer problems into scalable products.
+
+I combine **customer context, product strategy, and engineering depth** to build enterprise products from scratch. My experience spans cloud and application security, platform integrations, compliance, product quality, analytics, and growth—giving me a practical view of the full product lifecycle.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushaggarwalportfolio.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-View_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1t6FbgrqEdGy6Nc5lOfHMpaxHR0NHV2Yv/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushaggarwalin/)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaggarwal1136@gmail.com)
+
 </div>
 
-<br>
+---
 
-## 🧭 About Me
+## GitHub at a glance
 
-- 🧩 **Product** — PRDs, discovery, roadmapping, wireframing & user-centric, data-informed decisions
-- 🔐 **Engineering** — Python/Django backend work with a security & data-protection focus
-- 🛠️ **Building** — [Ghostlight](https://github.com/AyushAggarwal1/ghostlight), a DSPM tool that scans cloud storage, VMs, DBs & repos for sensitive data exposure
-- 📓 **Documenting** — [Open Notepad](https://ayushaggarwal1.github.io/scratch-pad-open/), the public half of my scratchpad: PRDs, runbooks & field notes from building cloud-security products
-- 🌱 **Learning** — advanced DSA and modern web development, applied to real side projects
-- 🤝 **Open source** — merged contributions to [Microsoft Presidio](https://github.com/microsoft/presidio) and [DefectDojo](https://github.com/DefectDojo/sample-scan-files)
-- 💬 **Ask me about** — PRDs & roadmapping, data security posture management, or turning a spec into working code
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8">
+    <img width="100%" src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=flat&no-bg=true&no-frame=true&margin-w=8&margin-h=8" alt="Ayush Aggarwal's GitHub trophies">
+  </picture>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&show_icons=true&hide_border=true" alt="Ayush Aggarwal's GitHub statistics">
+  </picture>
+</div>
 
-<br>
-
-## 📓 Open Notepad — My Work, In Public
+## Impact at a glance
 
 <div align="center">
 
-<em>“The public half of my scratchpad — PRDs, commands, references, and field notes from building cloud-security products.”</em>
-
-<p>Real working docs, published as I write them: product specs & phase plans for <strong>ASPM</strong>, <strong>DSPM</strong> and <strong>CIEM</strong> features, integration guides (Jira, Sumo Logic, Microsoft Teams, GitHub/GitLab/Bitbucket apps), quality-gate flows, runbooks, commands and ticket templates.</p>
-
-<a href="https://ayushaggarwal1.github.io/scratch-pad-open/" target="_blank"><img src="https://img.shields.io/badge/📓_Read_the_Notepad-0288D1?style=for-the-badge" alt="Read the Notepad" /></a>
-&nbsp;
-<a href="https://github.com/AyushAggarwal1/scratch-pad-open" target="_blank"><img src="https://img.shields.io/badge/Source_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub" /></a>
-
-<p>
-  <img src="https://img.shields.io/badge/ASPM-455A64?style=flat-square" alt="ASPM" />
-  <img src="https://img.shields.io/badge/DSPM-455A64?style=flat-square" alt="DSPM" />
-  <img src="https://img.shields.io/badge/CIEM-455A64?style=flat-square" alt="CIEM" />
-  <img src="https://img.shields.io/badge/CSPM-455A64?style=flat-square" alt="CSPM" />
-  <img src="https://img.shields.io/badge/PRDs-455A64?style=flat-square" alt="PRDs" />
-  <img src="https://img.shields.io/badge/Integration_Guides-455A64?style=flat-square" alt="Integration Guides" />
-  <img src="https://img.shields.io/badge/Runbooks_%26_Commands-455A64?style=flat-square" alt="Runbooks and Commands" />
-</p>
+| **30+** | **17+** | **14+** | **12+** |
+|:---:|:---:|:---:|:---:|
+| Compliance programs led | Platform integrations scaled | Microservices connected through Event-Trail | Security tools unified for reporting |
 
 </div>
 
-<br>
-
-## 🚀 Featured Projects
+## A product manager with range
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕵️ Ghostlight</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/ghostlight" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=ghostlight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=ghostlight" width="100%" alt="Ghostlight"/>
-          </picture>
-        </a>
-        <p>Data Security Posture Management tool that scans cloud storage, VMs, databases & git repos to detect sensitive data and classify findings against GDPR, HIPAA, PCI, and secrets exposure.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-          <img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧾 GST Bill Maker</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/gst-bill" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=gst-bill&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=gst-bill" width="100%" alt="GST Bill Project"/>
-          </picture>
-        </a>
-        <p>A modern, user-friendly application for creating and managing GST bills, with secure authentication and a responsive UI.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Educational Chatbot</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/ed-chatbot" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=ed-chatbot&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=ed-chatbot" width="100%" alt="Educational Chatbot"/>
-          </picture>
-        </a>
-        <p>An intelligent chatbot that enhances educational experiences through natural language interactions.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 Resume Selector</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/Resume-Selector" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=Resume-Selector&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=Resume-Selector" width="100%" alt="Resume Selector Project"/>
-          </picture>
-        </a>
-        <p>A machine-learning system that analyzes and categorizes resumes by industry-sector relevance.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
-          <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" />
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Surveillance Car</h3>
-      <div align="center">
-        <a href="https://github.com/AyushAggarwal1/Surveillance-Car" target="_blank">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=Surveillance-Car&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AyushAggarwal1&repo=Surveillance-Car" width="100%" alt="Surveillance Car Project"/>
-          </picture>
-        </a>
-        <p>A smart surveillance vehicle with remote-control capability and real-time video streaming.</p>
-        <p>
-          <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
-          <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">➕ More Projects</h3>
-      <div align="center">
-        <p>Check out the rest of my work on my <a href="https://github.com/AyushAggarwal1?tab=repositories" target="_blank">GitHub repositories page</a>.</p>
-        <br>
-        <a href="https://github.com/AyushAggarwal1?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-        </a>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 Zero-to-one ownership</h3>
+<p>Defined the vision, roadmap, and execution strategy for an ASPM pipeline from the ground up. Conceived and launched Event-Trail as a shared audit capability across 14+ microservices.</p>
+</td>
+<td width="50%" valign="top">
+<h3>🤝 Enterprise customer focus</h3>
+<p>Improved onboarding and reduced operational friction through OCI, Azure Organization, ITSM, SIEM, messaging, logging, and webhook integrations.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧩 Platform & ecosystem thinking</h3>
+<p>Scaled 17+ platform integrations and standardized reporting across 12+ security tools—turning fragmented systems into coherent product experiences.</p>
+</td>
+<td width="50%" valign="top">
+<h3>📈 Quality, analytics & growth</h3>
+<p>Earlier roles included reducing production defects by 25%, improving customer satisfaction by 20%, and using research and analytics to increase engagement and retention.</p>
+</td>
+</tr>
 </table>
 
+## Currently building at AccuKnox
+
+### Technical Product Manager · AccuKnox
+
+`Sep 2024 – Present` · Enterprise SaaS · Cloud & Application Security
+
+- Defined the **product vision and execution strategy for ASPM from scratch**, translating customer needs, market context, and technical dependencies into a phased roadmap.
+- Led automated reporting across **12+ security tools**, giving enterprise users one consistent view of findings from otherwise fragmented scanners.
+- Conceived and launched **Event-Trail** across **14+ microservices**, strengthening auditability, observability, compliance readiness, and incident traceability.
+- Expanded the platform through **30+ CSPM compliance programs**, OCI integration, and Azure Organization onboarding—supporting broader enterprise use cases.
+- Scaled **17+ ITSM, SIEM, logging, messaging, and webhook integrations**, partnering with engineering, security, UX, sales, and customers from discovery through launch and iteration.
+
+<details>
+<summary><strong>Earlier experience: quality, analytics, and growth</strong></summary>
 <br>
 
-## 🤝 Open Source Contributions
+**Product Quality Engineer · I2V Systems** — `Jun 2023 – Sep 2024`
 
-### [microsoft/presidio](https://github.com/microsoft/presidio) — Data Protection & De-identification SDK
+- Improved QA and testing processes, reducing production defects by **25%** and accelerating delivery.
+- Used product analytics to help improve customer satisfaction by **20%**.
+- Aligned product messaging with sales and marketing, contributing to a **15% increase in conversions**.
 
-<div>
-  <a href="https://github.com/microsoft/presidio" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=microsoft&repo=presidio&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=microsoft&repo=presidio" width="400px" align="right" alt="microsoft presidio Contributions"/>
-    </picture>
-  </a>
+**Product Associate Intern · Techvins** — `Feb 2023 – Jun 2023`
 
-  <ul>
-    <li>
-      <strong>PR <a href="https://github.com/microsoft/presidio/pull/1744">#1744</a> — merged:</strong> Added a new recognizer to <code>presidio_analyzer</code>
-      <ul>
-        <li>Indian GSTIN recognizer for Presidio's analyzer engine</li>
-        <li>Three confidence tiers (0.8 / 0.4 / 0.1) based on pattern strictness</li>
-        <li>Context-aware detection using surrounding keywords</li>
-      </ul>
-    </li>
-  </ul>
-</div>
+- Improved Agile execution, increasing sprint velocity by **15%**.
+- Conducted data-driven research that improved engagement by **25%** and retention by **15%**.
+- Supported SEO initiatives that grew organic visibility.
 
-<br clear="all">
+</details>
 
-### [DefectDojo/sample-scan-files](https://github.com/DefectDojo/sample-scan-files) — Security Scanning Sample Files
+## Open-source contributions
 
-<div>
-  <a href="https://github.com/DefectDojo/sample-scan-files" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=DefectDojo&repo=sample-scan-files&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DefectDojo&repo=sample-scan-files" width="400px" align="right" alt="DefectDojo Contributions"/>
-    </picture>
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Microsoft Presidio</h3>
+<p>Added an <strong>Indian GSTIN recognizer</strong> to Microsoft's data-protection SDK, using multiple confidence tiers and contextual detection to improve PII recognition.</p>
+<p><a href="https://github.com/microsoft/presidio/pull/1744"><img src="https://img.shields.io/badge/PR_%231744-Merged-8957E5?style=flat-square&logo=github&logoColor=white" alt="Microsoft Presidio pull request 1744 merged"></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>DefectDojo</h3>
+<p>Added security-tool samples for Checkov, Semgrep, Checkmarx, and SonarQube to support vulnerability-management and scan-ingestion testing.</p>
+<p><a href="https://github.com/DefectDojo/sample-scan-files/pull/85"><img src="https://img.shields.io/badge/PR_%2385-Merged-8957E5?style=flat-square&logo=github&logoColor=white" alt="DefectDojo pull request 85 merged"></a></p>
+</td>
+</tr>
+</table>
 
-  <ul>
-    <li>
-      <strong>PR <a href="https://github.com/DefectDojo/sample-scan-files/pull/85">#85</a> — merged:</strong> Added misconfiguration sample files for security scanning tools
-      <ul>
-        <li>Sample files for Checkov, Semgrep, Checkmarx, and SonarQube</li>
-        <li>Used to test vulnerability management & scan-ingestion pipelines</li>
-      </ul>
-    </li>
-  </ul>
-</div>
+## Product writing & PRDs
 
-<br clear="all">
+<p>Public product thinking from my <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Open Notepad</strong></a>—showing how I structure complex security problems, product scope, workflows, and phased execution.</p>
 
-## 💻 Tech Stack
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🔎 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/003_dspm/">DSPM</a></h3>
+<p>Product thinking for discovering, classifying, and prioritizing sensitive-data risk across modern environments.</p>
+<p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/003_dspm/"><strong>Read document →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🔐 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/004_ciem/">CIEM</a></h3>
+<p>Product notes covering identity entitlements, permissions visibility, and cloud access-risk management.</p>
+<p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/004_ciem/"><strong>Read document →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3>🧭 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/006_event-trail/Event-Trail/">Event-Trail</a></h3>
+<p>A product specification for centralized event history, auditability, and traceability across microservices.</p>
+<p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/006_event-trail/Event-Trail/"><strong>Read document →</strong></a></p>
+</td>
+</tr>
+</table>
 
-**Product**
+## Personal projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🕵️ <a href="https://github.com/AyushAggarwal1/ghostlight">Ghostlight</a></h3>
+<p><strong>Data Security Posture Management</strong></p>
+<p>Scans cloud storage, VMs, databases, and Git repositories for sensitive-data exposure, then maps findings to GDPR, HIPAA, PCI, and secrets-related risks.</p>
+<p><code>Python</code> <code>AWS</code> <code>OpenAI</code> <code>DSPM</code></p>
+<p><a href="https://github.com/AyushAggarwal1/ghostlight"><strong>View project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🧾 <a href="https://github.com/AyushAggarwal1/gst-bill">GSTly</a></h3>
+<p><strong>Full-stack GST billing</strong></p>
+<p>A responsive application for creating and managing GST invoices with authentication and persistent relational data.</p>
+<p><code>Next.js</code> <code>React</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+<p><a href="https://github.com/AyushAggarwal1/gst-bill"><strong>View project →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📄 <a href="https://github.com/AyushAggarwal1/Resume-Selector">Resume Selector</a></h3>
+<p><strong>Machine-learning candidate assessment</strong></p>
+<p>Uses keyword analysis and Naive Bayes classification to assess and categorize resumes by industry relevance.</p>
+<p><code>Python</code> <code>Naive Bayes</code> <code>Pandas</code> <code>Matplotlib</code></p>
+<p><a href="https://github.com/AyushAggarwal1/Resume-Selector"><strong>View project →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/AyushAggarwal1/ed-chatbot">Educational Chatbot</a></h3>
+<p><strong>Conversational learning assistant</strong></p>
+<p>An intelligent chatbot designed to support educational experiences through natural-language interaction.</p>
+<p><code>Python</code> <code>NLP</code> <code>Conversational AI</code></p>
+<p><a href="https://github.com/AyushAggarwal1/ed-chatbot"><strong>View project →</strong></a></p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product_Strategy-0288D1?style=for-the-badge" alt="Product Strategy" />
-  <img src="https://img.shields.io/badge/User_Research-FF6B00?style=for-the-badge" alt="User Research" />
-  <img src="https://img.shields.io/badge/Roadmapping-00838F?style=for-the-badge" alt="Roadmapping" />
-  <img src="https://img.shields.io/badge/A_B_Testing-6200EA?style=for-the-badge" alt="A/B Testing" />
-  <img src="https://img.shields.io/badge/OKRs-D81B60?style=for-the-badge" alt="OKRs" />
-  <img src="https://img.shields.io/badge/Market_Analysis-2E7D32?style=for-the-badge" alt="Market Analysis" />
-  <img src="https://img.shields.io/badge/Wireframing-424242?style=for-the-badge" alt="Wireframing" />
-  <img src="https://img.shields.io/badge/User_Stories-F57C00?style=for-the-badge" alt="User Stories" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <a href="https://github.com/AyushAggarwal1?tab=repositories"><strong>Explore all repositories →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Read my product notes →</strong></a>
 </p>
 
-**Languages**
+## How I build products
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+```text
+Listen → Frame the problem → Prioritize → Specify → Align → Ship → Learn
+```
 
-**Web & Data**
+| Principle | What it looks like in practice |
+|---|---|
+| **Start with the customer workflow** | Understand where users experience friction and how a product must fit into their existing environment. |
+| **Turn ambiguity into clarity** | Convert broad problems into PRDs, user stories, success measures, phased roadmaps, and executable scope. |
+| **Go deep enough technically** | Work through APIs, data models, architecture, dependencies, edge cases, and security requirements with engineering. |
+| **Own the outcome, not only the feature** | Coordinate discovery, prioritization, delivery, enablement, launch readiness, feedback, and iteration. |
+| **Use evidence to improve** | Combine customer signals, product analytics, market research, quality data, and experimentation. |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-</p>
+## Product & technical toolkit
 
-**Tools & Platforms**
+| Product | Technology | Security & platforms |
+|---|---|---|
+| Strategy, discovery, PRDs, roadmaps, MVPs | Python, Java, SQL, REST APIs | ASPM, CSPM, DSPM, cloud security |
+| Prioritization, user stories, KPIs, experiments | Data modeling, Git, CI/CD, GitHub Actions | SIEM, compliance, policy enforcement |
+| Agile delivery, release planning, stakeholder alignment | Postman, technical architecture, integrations | Jira, Freshservice, ServiceDesk Plus, QRadar |
+| Research, competitive analysis, wireframing | Figma, Whimsical, Confluence, Notion | Semgrep, Checkmarx, SonarQube, JFrog, Gitleaks |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
-</p>
+### Languages across my repositories
 
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&count_private=true&show_icons=true&hide_border=true&hide_title=true" height="185px" alt="Ayush's GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=58a6ff">
-    <img src="https://streak-stats.demolab.com/?user=ayushaggarwal1&hide_border=true" height="185px" alt="Ayush's Streak"/>
-  </picture>
-</p>
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AyushAggarwal1&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AyushAggarwal1&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AyushAggarwal1&layout=compact&hide_border=true&langs_count=8" alt="Ayush Aggarwal&apos;s most-used languages">
   </picture>
-</p>
-
-<br>
-
-## 🧩 Competitive Programming
-
-<div align="center">
-  <a href="https://leetcode.com/ayushaggarwal1136/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/ayushaggarwal1136?theme=dark">
-      <img src="https://leetcard.jacoblin.cool/ayushaggarwal1136?theme=light" width="500px" alt="Ayush's LeetCode Stats"/>
-    </picture>
-  </a>
 </div>
 
-<br>
+## Recognition & education
+
+- 🏆 **2× Star Contributor Award** — recognized by the CTO for consistent delivery of high-impact outcomes.
+- 🎓 **B.Tech in Electronics and Communication** — The NorthCap University, 2019–2023.
+- 📜 Learning across Java data structures and algorithms, Google Cloud Qwiklabs, Scrum, and product management.
+
+---
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's build products customers value
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayushaggarwalin/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
-[<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
+I'm always glad to discuss **technical product management, zero-to-one products, enterprise platforms, cloud security, or open source**.
 
-<sub>Thanks for stopping by — always open to a chat about product, security, or a good side project.</sub>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushaggarwalin/)
+[![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaggarwal1136@gmail.com)
+[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushaggarwal1136)
+
+<sub>Customer context · Product clarity · Technical execution</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0288D1%2C100%3A00568C&height=110&section=footer" width="100%" alt=""/>
