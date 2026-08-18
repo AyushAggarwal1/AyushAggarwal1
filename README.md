@@ -27,6 +27,15 @@ I scope the roadmap, then build and ship the security tooling that proves it out
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
 [<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
 
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true">
+    <img src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=flat&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="ayush_aggarwal_github_trophy"/>
+  </picture>
+</a>
+
 </div>
 
 <br>
@@ -280,15 +289,6 @@ I scope the roadmap, then build and ship the security tooling that proves it out
 <br>
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true">
-      <img src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&theme=flat&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="ayush_aggarwal_github_trophy"/>
-    </picture>
-  </a>
-</div>
 
 <p align="center">
   <picture>
