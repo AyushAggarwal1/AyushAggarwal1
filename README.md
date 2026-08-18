@@ -14,7 +14,7 @@
 
 # Hi, I'm Ayush Aggarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0288D1&center=true&vCenter=true&width=650&lines=Technical+Product+Manager;Security+%26+Backend+Engineer;Builder+of+Ghostlight+(DSPM);Merged+Contributor+%40+Microsoft+Presidio" alt="Typing SVG" />
+### Technical Product Manager - Microsoft Presidio Contributor - Security Specialist
 
 I scope the roadmap, then build and ship the security tooling that proves it out — PRDs by day, pull requests by night.
 
@@ -26,8 +26,6 @@ I scope the roadmap, then build and ship the security tooling that proves it out
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayushaggarwal1136/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ayushaggarwal1136@gmail.com)
 [<img src="https://img.shields.io/badge/All_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />](https://beacons.ai/ayushaggarwal)
-
-<img src="https://komarev.com/ghpvc/?username=AyushAggarwal1&color=0288d1&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
