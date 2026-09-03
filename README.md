@@ -4,33 +4,38 @@
 # Ayush Aggarwal
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0A66C2&center=true&vCenter=true&width=900&lines=Cybersecurity+Product+Manager;Technical+Product+Builder;Software+Developer+with+Product+Judgment;Building+Security+Products+from+Ambiguity+to+Launch" alt="Cybersecurity product manager, technical product builder, and software developer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=0A66C2&center=true&vCenter=true&width=900&lines=Cybersecurity+Product+Manager;Technical+PM+with+Engineering+Depth;Security+Products+from+Ambiguity+to+Launch" alt="Cybersecurity Product Manager, and technical PM with engineering depth">
 </a>
 
-### Cybersecurity Product Manager who can think like a builder, reason like an engineer, and ship like an owner.
+### Cybersecurity Product Manager and technical builder for cloud, application, data, and compliance security.
 
-I build security products across **ASPM, CSPM, DSPM, compliance, auditability, integrations, and enterprise workflows**. My edge is the overlap: I can speak with customers, define product strategy, write clear PRDs, reason through architecture and APIs, collaborate deeply with engineering, and still build software myself.
+I work at the intersection of **security product strategy, customer workflows, technical architecture, and hands-on software building**. My strength is turning ambiguous security problems into clear product scope, PRDs, roadmap slices, APIs, integrations, dashboards, audit trails, and release-ready execution.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushaggarwalportfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-View_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1t6FbgrqEdGy6Nc5lOfHMpaxHR0NHV2Yv/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushaggarwalin/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaggarwal1136@gmail.com)
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8">
+  <img width="100%" src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=flat&no-bg=true&no-frame=true&margin-w=8&margin-h=8" alt="Ayush Aggarwal's GitHub trophies">
+</picture>
+
 </div>
 
 ---
 
-## Profile highlights
+## Snapshot
 
-| What I bring | Proof |
+| Area | Evidence |
 |---|---|
-| **Cybersecurity product ownership** | Building at AccuKnox across ASPM, CSPM, compliance automation, audit trails, cloud onboarding, and enterprise integrations. |
-| **Zero-to-one product thinking** | Defined ASPM product vision and execution strategy from scratch; conceived Event-Trail as a shared audit layer across 14+ microservices. |
-| **Technical depth** | Comfortable with APIs, data models, microservices, scanners, integrations, cloud security workflows, Python, Java, SQL, Git, and CI/CD. |
-| **Open-source credibility** | Merged contributions to Microsoft Presidio and DefectDojo ecosystem repositories. |
-| **Builder mindset** | Created security and software projects including Ghostlight, GSTly, Resume Selector, and product PRDs for DSPM, CIEM, and Event-Trail. |
-
-## Impact metrics
+| **Current role** | Technical Product Manager at **AccuKnox**, building across ASPM, CSPM, DSPM, compliance automation, cloud onboarding, auditability, and enterprise integrations. |
+| **Product ownership** | Defined ASPM vision, product scope, roadmap, and phased execution from scratch. |
+| **Platform thinking** | Conceived **Event-Trail** as a shared audit and traceability layer across **14+ microservices**. |
+| **Enterprise execution** | Scaled **17+ integrations** across ITSM, SIEM, logging, messaging, and webhook workflows. |
+| **Builder credibility** | Created hands-on security/software projects and contributed merged work to Microsoft Presidio and DefectDojo ecosystem repositories. |
 
 <div align="center">
 
@@ -40,36 +45,36 @@ I build security products across **ASPM, CSPM, DSPM, compliance, auditability, i
 
 </div>
 
-## Cybersecurity PM with engineering depth
+## What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Zero-to-one ownership</h3>
-<p>Defined vision, roadmap, scope, and execution strategy for ASPM from the ground up. Conceived Event-Trail as a shared audit capability across 14+ microservices.</p>
+<h3>Security Product Strategy</h3>
+<p>Product vision, discovery, market context, PRDs, roadmap planning, MVP scoping, acceptance criteria, launch planning, and post-release iteration.</p>
 </td>
 <td width="50%" valign="top">
-<h3>Enterprise customer focus</h3>
-<p>Improved onboarding and reduced operational friction through OCI, Azure Organization, ITSM, SIEM, messaging, logging, and webhook integrations.</p>
+<h3>Enterprise Security Workflows</h3>
+<p>ASPM, CSPM, DSPM, compliance reporting, audit trails, cloud onboarding, risk prioritization, security findings, and operational handoffs.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Platform and ecosystem thinking</h3>
-<p>Scaled 17+ platform integrations and standardized reporting across 12+ security tools, turning fragmented systems into coherent product experiences.</p>
+<h3>Technical Product Execution</h3>
+<p>APIs, data models, integrations, scanner behavior, edge cases, observability, permissions, architecture tradeoffs, and engineering collaboration.</p>
 </td>
 <td width="50%" valign="top">
-<h3>Technical builder mindset</h3>
-<p>Builds hands-on software projects, contributes to open source, and works through APIs, data models, scanner behavior, edge cases, and architecture with engineering teams.</p>
+<h3>Proof-Oriented Delivery</h3>
+<p>Hands-on software projects, open-source contributions, product notes, customer feedback loops, quality signals, and measurable product outcomes.</p>
 </td>
 </tr>
 </table>
 
-## Product impact in cybersecurity
+## Product Impact
 
-### Technical Product Manager · AccuKnox
+### Technical Product Manager - AccuKnox
 
-`Sep 2024 - Present` · Enterprise SaaS · Cloud & Application Security
+`Sep 2024 - Present` | Enterprise SaaS | Cloud and Application Security
 
 - Defined the **product vision, scope, roadmap, and execution strategy for ASPM from scratch**, translating customer needs, market context, security workflows, and technical dependencies into shippable phases.
 - Led automated reporting across **12+ security tools**, helping enterprise users consolidate findings from fragmented scanners into one consistent reporting experience.
@@ -81,13 +86,13 @@ I build security products across **ASPM, CSPM, DSPM, compliance, auditability, i
 <summary><strong>Earlier experience: quality, analytics, and growth</strong></summary>
 <br>
 
-**Product Quality Engineer · I2V Systems** - `Jun 2023 - Sep 2024`
+**Product Quality Engineer - I2V Systems** | `Jun 2023 - Sep 2024`
 
 - Improved QA and testing processes, reducing production defects by **25%** and accelerating delivery.
 - Used product analytics to help improve customer satisfaction by **20%**.
 - Aligned product messaging with sales and marketing, contributing to a **15% increase in conversions**.
 
-**Product Associate Intern · Techvins** - `Feb 2023 - Jun 2023`
+**Product Associate Intern - Techvins** | `Feb 2023 - Jun 2023`
 
 - Improved Agile execution, increasing sprint velocity by **15%**.
 - Conducted data-driven research that improved engagement by **25%** and retention by **15%**.
@@ -95,14 +100,14 @@ I build security products across **ASPM, CSPM, DSPM, compliance, auditability, i
 
 </details>
 
-## Open-source contributions
+## Open Source
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3>Microsoft Presidio</h3>
 <p><strong>Data protection and PII detection</strong></p>
-<p>Added an <strong>Indian GSTIN recognizer</strong> to Microsoft's data-protection SDK, using multiple confidence tiers and contextual detection to improve sensitive-data recognition.</p>
+<p>Added an <strong>Indian GSTIN recognizer</strong> to Microsoft's data-protection SDK using multiple confidence tiers and contextual detection to improve sensitive-data recognition.</p>
 <p><a href="https://github.com/microsoft/presidio/pull/1744"><img src="https://img.shields.io/badge/PR_%231744-Merged-8957E5?style=flat-square&logo=github&logoColor=white" alt="Microsoft Presidio pull request 1744 merged"></a></p>
 </td>
 <td width="50%" valign="top">
@@ -114,31 +119,31 @@ I build security products across **ASPM, CSPM, DSPM, compliance, auditability, i
 </tr>
 </table>
 
-## Product writing and PRDs
+## Product Writing
 
-<p>Public product thinking from my <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Open Notepad</strong></a>, showing how I structure complex security problems, user workflows, scope, requirements, and phased execution.</p>
+<p>Public product thinking from my <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Open Notepad</strong></a>, focused on complex security workflows, user problems, product requirements, technical scope, and phased execution.</p>
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3>🔎 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/003_dspm/">DSPM</a></h3>
+<h3><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/003_dspm/">DSPM</a></h3>
 <p>Product thinking for discovering, classifying, and prioritizing sensitive-data risk across modern environments.</p>
 <p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/003_dspm/"><strong>Read document</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<h3>🔐 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/004_ciem/">CIEM</a></h3>
+<h3><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/004_ciem/">CIEM</a></h3>
 <p>Product notes covering identity entitlements, permissions visibility, and cloud access-risk management.</p>
 <p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/004_ciem/"><strong>Read document</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<h3>🧭 <a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/006_event-trail/Event-Trail/">Event-Trail</a></h3>
+<h3><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/006_event-trail/Event-Trail/">Event-Trail</a></h3>
 <p>A product specification for centralized event history, auditability, and traceability across microservices.</p>
 <p><a href="https://ayushaggarwal1.github.io/scratch-pad-open/notes/006_event-trail/Event-Trail/"><strong>Read document</strong></a></p>
 </td>
 </tr>
 </table>
 
-## Selected builds
+## Selected Builds
 
 <table>
 <tr>
@@ -177,11 +182,11 @@ I build security products across **ASPM, CSPM, DSPM, compliance, auditability, i
 
 <p align="center">
   <a href="https://github.com/AyushAggarwal1?tab=repositories"><strong>Explore all repositories</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Read my product notes</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://ayushaggarwal1.github.io/scratch-pad-open/"><strong>Read product notes</strong></a>
 </p>
 
-## How I build products
+## How I Work
 
 ```text
 Customer pain -> threat model -> product scope -> technical design -> delivery -> adoption -> iteration
@@ -190,12 +195,12 @@ Customer pain -> threat model -> product scope -> technical design -> delivery -
 | Principle | What it looks like in practice |
 |---|---|
 | **Start with the workflow** | Understand the user's security job, current tools, operational friction, risk ownership, and reporting needs. |
-| **Translate ambiguity into execution** | Convert broad problems into PRDs, user stories, release slices, acceptance criteria, success metrics, and launch plans. |
+| **Turn ambiguity into execution** | Convert broad problems into PRDs, user stories, release slices, acceptance criteria, success metrics, and launch plans. |
 | **Go deep technically** | Work through APIs, data models, integrations, architecture, scanner behavior, edge cases, and security requirements with engineering. |
-| **Build for enterprise reality** | Account for permissions, auditability, compliance, onboarding, integrations, observability, and long-term maintainability. |
+| **Design for enterprise reality** | Account for permissions, auditability, compliance, onboarding, integrations, observability, and long-term maintainability. |
 | **Own outcomes** | Use customer signals, product analytics, quality data, support feedback, and market research to improve shipped products. |
 
-## Product and technical toolkit
+## Toolkit
 
 | Product | Engineering | Security and platforms |
 |---|---|---|
@@ -204,14 +209,9 @@ Customer pain -> threat model -> product scope -> technical design -> delivery -
 | Agile delivery, release planning, stakeholder alignment | Postman, technical architecture, integrations | Jira, Freshservice, ServiceDesk Plus, QRadar |
 | Research, competitive analysis, wireframing | Figma, Whimsical, Confluence, Notion | Semgrep, Checkmarx, SonarQube, JFrog, Gitleaks |
 
-## GitHub proof
+## GitHub Proof
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8">
-    <img width="100%" src="https://trophy.ryglcloud.net/?username=AyushAggarwal1&column=7&theme=flat&no-bg=true&no-frame=true&margin-w=8&margin-h=8" alt="Ayush Aggarwal's GitHub trophies">
-  </picture>
-  <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9">
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=AyushAggarwal1&show_icons=true&hide_border=true" alt="Ayush Aggarwal's GitHub statistics">
@@ -222,7 +222,7 @@ Customer pain -> threat model -> product scope -> technical design -> delivery -
   </picture>
 </div>
 
-## Recognition and education
+## Recognition and Education
 
 - **2x Star Contributor Award** - recognized by the CTO for consistent delivery of high-impact outcomes.
 - **B.Tech in Electronics and Communication** - The NorthCap University, 2019-2023.
@@ -232,7 +232,7 @@ Customer pain -> threat model -> product scope -> technical design -> delivery -
 
 <div align="center">
 
-## Let's build secure products that customers trust
+## Let's Build Secure Products Customers Trust
 
 I am interested in **cybersecurity product management, developer-facing security products, enterprise SaaS, cloud security, platform integrations, and open source**.
 
@@ -240,6 +240,6 @@ I am interested in **cybersecurity product management, developer-facing security
 [![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushaggarwal1136@gmail.com)
 [![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushaggarwal1136)
 
-<sub>Customer context · Security depth · Product clarity · Technical execution</sub>
+<sub>Customer context | Security depth | Product clarity | Technical execution</sub>
 
 </div>
